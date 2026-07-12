@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Database_Design-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
 </p>
 ---
 
