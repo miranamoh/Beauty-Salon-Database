@@ -1,4 +1,4 @@
-# Beauty-Salon-Database
+## Beauty-Salon-Database
 A relational database system designed and implemented in MySQL to manage core operations of a beauty salon
 <h1 align="center"> Beauty Salon Database System</h1>
 
